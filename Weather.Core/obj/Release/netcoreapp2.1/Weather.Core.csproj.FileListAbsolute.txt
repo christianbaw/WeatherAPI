@@ -1,0 +1,12 @@
+C:\Users\chris\source\repos\Weather\Weather.Core\bin\Release\netcoreapp2.1\Weather.Core.deps.json
+C:\Users\chris\source\repos\Weather\Weather.Core\bin\Release\netcoreapp2.1\Weather.Core.dll
+C:\Users\chris\source\repos\Weather\Weather.Core\bin\Release\netcoreapp2.1\Weather.Core.pdb
+C:\Users\chris\source\repos\Weather\Weather.Core\bin\Release\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\chris\source\repos\Weather\Weather.Core\bin\Release\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\chris\source\repos\Weather\Weather.Core\obj\Release\netcoreapp2.1\Weather.Core.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Weather\Weather.Core\obj\Release\netcoreapp2.1\Weather.Core.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Weather\Weather.Core\obj\Release\netcoreapp2.1\Weather.Core.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Weather\Weather.Core\obj\Release\netcoreapp2.1\Weather.Core.AssemblyInfo.cs
+C:\Users\chris\source\repos\Weather\Weather.Core\obj\Release\netcoreapp2.1\Weather.Core.csproj.CopyComplete
+C:\Users\chris\source\repos\Weather\Weather.Core\obj\Release\netcoreapp2.1\Weather.Core.dll
+C:\Users\chris\source\repos\Weather\Weather.Core\obj\Release\netcoreapp2.1\Weather.Core.pdb
